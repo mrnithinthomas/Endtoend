@@ -1,4 +1,4 @@
-## Compose sample application
+## Compose sample application with Nithin
 
 ### Use with Docker Development Environments
 
