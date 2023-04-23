@@ -8,6 +8,7 @@ You can open this sample in the Dev Environments feature of Docker Desktop versi
 
 ### NGINX proxy with Go backend
 
+
 Project structure:
 ```
 .
